@@ -12,6 +12,8 @@ To Develop a python program to Plot a time series data (population/ market price
 5. Display the graph.
 # PROGRAM:
 ```
+Name:Dhivya Dharshini B
+Reg No: 212223240031
 import pandas as pd
 import matplotlib.pyplot as plt
 file_path = 'gold_price_data.csv'
